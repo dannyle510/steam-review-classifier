@@ -91,7 +91,7 @@ Games were selected based on **active, ongoing technical complaints** in recent 
 
 ## Dashboard
 
-![Tableau Dashboard](dashboard.png)
+![Tableau Dashboard]()
 
 ---
 
