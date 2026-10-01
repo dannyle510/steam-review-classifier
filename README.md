@@ -210,3 +210,10 @@ Upload `zero_shot_classification.ipynb` to [Google Colab](https://colab.research
 ```bash
 python generate_briefs.py
 ```
+---
+
+## Development Note
+
+AI tools such as Claude and Cursor were used as development assistants throughout this project. The architecture, implementation, and overall design were developed iteratively by me. I worked on the project consistently, making changes, refactoring, removing features, and building new functionality throughout development.
+
+Rather than continuously pushing intermediate changes to GitHub, I chose to push the project once it had reached a finished state. As a result, the repository's commit history is relatively small and does not fully reflect the amount of development that went into the project.
